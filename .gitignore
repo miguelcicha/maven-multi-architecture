@@ -1,3 +1,9 @@
+/common-web/target/*
+/module-ear/target/*
+/module-ejb/target/*
+/module-web/target/*
+/module-web2/target/*
+
 # Compiled class file
 *.class
 
